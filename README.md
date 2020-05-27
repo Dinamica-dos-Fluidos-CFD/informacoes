@@ -4,7 +4,7 @@ Este documento deve orientar a elaboração e execução de um experimento numé
 
 Esse documento não pretende esgotar todas as questões relativas à atividade. Complementações podem ser feitas além do requerimento mínimo de conteúdo. Mas os itens mínimos devem ser preenchidos. 
 
-Este trabalho deverá ser feito **individualmente**.
+Este trabalho deverá ser feito **individualmente**. Quaisquer indícios de cópias e plágio receberão **nota zero**.
 
 Abaixo segue guias para colocar equações e imagens no arquivo README:
 

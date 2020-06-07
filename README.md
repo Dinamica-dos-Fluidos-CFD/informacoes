@@ -6,7 +6,7 @@ Esse documento não pretende esgotar todas as questões relativas à atividade. 
 
 Este trabalho deverá ser feito **individualmente**. Quaisquer indícios de cópias e plágio receberão **nota zero**.
 
-Abaixo segue guias para colocar equações e imagens no arquivo README:
+Abaixo segue guias para colocar equações e imagens no arquivo README, onde deve ser colocado o relato de cada etapa:
 
 
 Exemplo para anexar uma imagem (A imagem deve ser enviada para a pasta do grupo via *upload*):

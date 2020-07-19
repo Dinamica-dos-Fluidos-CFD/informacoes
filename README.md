@@ -36,8 +36,9 @@ Sugere-se usar o tutorial de escoamento em dutos de seção circular feito anter
 
 Sugere-se usar o tutorial de escoamento 2D em círculos concêntricos feito anteriormente. A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.
 
+Alternativamente, o aluno pode escolher realizar no ANSYS um dos casos básicos (Basic Cases) presentes em https://turbmodels.larc.nasa.gov/index.html
 
-O projeto em ambos os problemas consistirá de três etapas, onde cada etapa está dividida em subetapas e valem 1/3 da nota. O prazo para entrega de cada etapa é de **1 semana, onde as análises, cálculos, imagens e figuras obtidas deverão ser feitas no GitHub**. Estas etapas são:
+O projeto em ambos os problemas e nos casos da NASA consistirá de três etapas, onde cada etapa está dividida em subetapas e valem 1/3 da nota. O prazo para entrega de cada etapa é de **1 semana, onde as análises, cálculos, imagens e figuras obtidas deverão ser feitas no GitHub**. Estas etapas são:
 
 ### 1. Modelagem: 
 

@@ -26,7 +26,7 @@ Os problemas propostos para o projeto são:
 - Apresentar possibilidades de problemas em caso dos valores colocados acima não estarem coerentes.
 - Usando a simulação apresentada, realizar um estudo paramétrico para avaliar se o cenário acima é normal ou não para esta instalação.
 
-Sugere-se usar o tutorial de escoamento em dutos de seção circular feito anteriormente. A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.
+Sugere-se usar o tutorial de escoamento em dutos de seção circular feito anteriormente. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
 
 **Problema 2:** Deseja-se otimizar o processo de lubrificação de um mancal que é componente de um dado sistema mecânico de um eixo girante. Como todo o memorial de cálculo do mancal se perdeu, não há informações quantitativas de rotação, torque ou do óleo lubrificante usado, apenas que o eixo possui 60 mm e a folga entre o eixo e o mancal é de 2 mm. O projeto de CFD deve:
 
@@ -34,11 +34,30 @@ Sugere-se usar o tutorial de escoamento em dutos de seção circular feito anter
 - Determinar se existe a possibilidade de outros valores de operação suportados por este mancal.
 - Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de funcionamento do mancal.
 
-Sugere-se usar o tutorial de escoamento 2D em círculos concêntricos feito anteriormente. A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.
+Sugere-se usar o tutorial de escoamento 2D em círculos concêntricos feito anteriormente. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
 
-Alternativamente, o aluno pode escolher realizar no ANSYS um dos casos básicos (Basic Cases) presentes em https://turbmodels.larc.nasa.gov/index.html
+**Problema 3:** No projeto de uma asa de uma aeronave, deseja-se saber o melhor aerofólio para este perfil. No entanto, deseja-se um valor de coeficiente de sustentação em torno de 0,8 para um ângulo de ataque de 12 graus. Para avaliação do aerofólio, escolheu-se o perfil NACA 0012. O projeto de CFD deve:
 
-O projeto em ambos os problemas e nos casos da NASA consistirá de três etapas, onde cada etapa está dividida em subetapas e valem 1/3 da nota. O prazo para entrega de cada etapa é de **1 semana, onde as análises, cálculos, imagens e figuras obtidas deverão ser feitas no GitHub**. Estas etapas são:
+- Determinar, com a simulação, um valor de coeficientes de arrasto e sustentação para o aerofólio NACA 0012 para o ângulo de ataque de 12 graus.
+- Determinar se está ocorrendo o fenômeno de *stall* neste ângulo de ataque.
+- Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de funcionamento do mancal.
+
+Sugere-se usar o tutorial de escoamento em torno do perfil NACA 0012 disponível no canal da disciplina. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
+
+**Problema 4:** No projeto de uma asa de uma aeronave, deseja-se saber o melhor aerofólio para este perfil. No entanto, deseja-se um valor de coeficiente de sustentação em torno de 0,8 para um ângulo de ataque de 12 graus. Para avaliação do aerofólio, escolheu-se o perfil NACA 0012. O projeto de CFD deve:
+
+- Determinar, com a simulação, um valor de coeficientes de arrasto e sustentação para o aerofólio NACA 0012 para o ângulo de ataque de 12 graus.
+- Determinar se está ocorrendo o fenômeno de *stall* neste ângulo de ataque.
+- Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de funcionamento do mancal.
+
+Sugere-se usar o tutorial de escoamento em torno do perfil NACA 0012 disponível no canal da disciplina. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
+
+O projeto nestes problemas consistirá de três etapas, onde cada etapa está dividida em subetapas e valem 1/3 da nota. **A cada semana, será feita avaliação e feedback do trabalho desenvolvido até então, onde as análises, cálculos, imagens e figuras obtidas deverão ser feitas no GitHub**. 
+
+**O prazo final para entrega de todas as etapas do projeto é 04/12/2020!**
+
+
+Estas etapas são:
 
 ### 1. Modelagem: 
 

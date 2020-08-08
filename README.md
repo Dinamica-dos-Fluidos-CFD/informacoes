@@ -44,14 +44,6 @@ Sugere-se usar o tutorial de escoamento 2D em círculos concêntricos feito ante
 
 Sugere-se usar o tutorial de escoamento em torno do perfil NACA 0012 disponível no canal da disciplina. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
 
-**Problema 4:** No projeto de uma asa de uma aeronave, deseja-se saber o melhor aerofólio para este perfil. No entanto, deseja-se um valor de coeficiente de sustentação em torno de 0,8 para um ângulo de ataque de 12 graus. Para avaliação do aerofólio, escolheu-se o perfil NACA 0012. O projeto de CFD deve:
-
-- Determinar, com a simulação, um valor de coeficientes de arrasto e sustentação para o aerofólio NACA 0012 para o ângulo de ataque de 12 graus.
-- Determinar se está ocorrendo o fenômeno de *stall* neste ângulo de ataque.
-- Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de funcionamento do mancal.
-
-Sugere-se usar o tutorial de escoamento em torno do perfil NACA 0012 disponível no canal da disciplina. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
-
 O projeto nestes problemas consistirá de três etapas, onde cada etapa está dividida em subetapas e valem 1/3 da nota. **A cada semana, será feita avaliação e feedback do trabalho desenvolvido até então, onde as análises, cálculos, imagens e figuras obtidas deverão ser feitas no GitHub**. 
 
 **O prazo final para entrega de todas as etapas do projeto é 04/12/2020!**

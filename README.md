@@ -40,7 +40,7 @@ Sugere-se usar o tutorial de escoamento 2D em círculos concêntricos feito ante
 
 - Determinar, com a simulação, um valor de coeficientes de arrasto e sustentação para o aerofólio NACA 0012 para o ângulo de ataque de 12 graus.
 - Determinar se está ocorrendo o fenômeno de *stall* neste ângulo de ataque.
-- Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de funcionamento do mancal.
+- Usando a simulação apresentada, realizar um estudo paramétrico para determinar cenários de desempenho aerodinâmico do perfil.
 
 Sugere-se usar o tutorial de escoamento em torno do perfil NACA 0012 disponível no canal da disciplina. **A variável objeto do estudo paramétrico será divulgada para cada aluno individualmente.**
 

@@ -1,4 +1,4 @@
-# Informações#
+# Informações
 
 Este documento deve orientar a elaboração e execução de um experimento numérico que visa atender requerimentos da disciplina de Dinâmica dos Fluidos. O objetivo do relatório é realizar a aplicação de instrumentos básicos de gestão de projetos para a elaboração, planejamento, preparação e execução de um projeto de Dinâmica dos Fluidos Computacional. 
 
@@ -103,3 +103,18 @@ O projeto deverá conter nesta etapa:
 - Imagens de visualização do escoamento.
 - Análise dos resultados obtidos pelo estudo paramétrico.
 
+### Critérios de Avaliação
+
+1.	Todas as etapas contidas no repositório de informações estão descritas no repositório do aluno? 
+2.	Todas as perguntas requeridas no repositório de informações estão respondidas no repositório do aluno? 
+3.	O aluno respondeu adequadamente aos feedbacks feitos pelo professor? 
+4.	O aluno usou adequadamente o tempo para executar e documentar o trabalho? 
+
+Além destes tópicos, será avaliado:
+
+- Se o aluno buscou seguir o colocado neste repositório
+- Se o aluno usou os feedbacks em seu trabalho
+- Se o aluno atualizou o repositório regularmente ao longo do projeto
+- Se o aluno teve rigor em sua escrita e na formatação do texto do repositório
+- Se o aluno fez o trabalho no tempo adequado para atender o prazo de 04/12
+- Se o aluno teve participação através de perguntas para o professor através dos canais de comunicação da disciplina.
